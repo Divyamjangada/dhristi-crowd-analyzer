@@ -236,4 +236,20 @@ Give a ⭐️ if this project helped you or could save lives!
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)](https://opencv.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+---
+
+## 📸 Project Screenshots
+
+---
+
+## 📸 Project Screenshots
+
+<p align="center">
+  <img src="2.jpeg" width="30%" />
+  <img src="3.jpeg" width="30%" />
+  <img src="1.jpeg" width="30%" />
+</p>
+
+
+
 </div>
