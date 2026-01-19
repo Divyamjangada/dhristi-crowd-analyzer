@@ -238,17 +238,21 @@ Give a ⭐️ if this project helped you or could save lives!
 
 ---
 
-## 📸 Project Screenshots
-
----
 
 ## 📸 Project Screenshots
 
 <p align="center">
-  <img src="2.jpeg" width="30%" />
-  <img src="3.jpeg" width="30%" />
-  <img src="1.jpeg" width="30%" />
+  <img src="1.jpeg" width="80%" />
 </p>
+
+<p align="center">
+  <img src="2.jpeg" width="80%" />
+</p>
+
+<p align="center">
+  <img src="3.jpeg" width="80%" />
+</p>
+
 
 
 
